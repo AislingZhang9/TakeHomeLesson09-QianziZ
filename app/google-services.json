@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "866364899218",
+    "firebase_url": "https://takehomelesson09-qianziz-8a05f.firebaseio.com",
+    "project_id": "takehomelesson09-qianziz-8a05f",
+    "storage_bucket": "takehomelesson09-qianziz-8a05f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866364899218:android:63e0a0e8770a5ea39f4b4b",
+        "android_client_info": {
+          "package_name": "com.example.takehomelesson09_qianziz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866364899218-qsonb3a8msmalju9i1lc2t8p5b6be113.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.takehomelesson09_qianziz",
+            "certificate_hash": "37c4a6cb447e4bacae33186d493db955062180e4"
+          }
+        },
+        {
+          "client_id": "866364899218-sponcsr0loisgfa36eki67g66pd3d6lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdGQgXnrcvCC7LAbQROuv5q6khLUmhA-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866364899218-sponcsr0loisgfa36eki67g66pd3d6lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

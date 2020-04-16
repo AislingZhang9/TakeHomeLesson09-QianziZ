@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TakeHomeLesson09-QianziZ</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="type_question_here">Type Question Here</string>
+    <string name="type_answer_here">Type Answer Here</string>
+    <string name="remove">Remove</string>
+    <string name="send">Send</string>
+    <string name="log_out">Log out</string>
+</resources>
